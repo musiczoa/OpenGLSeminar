@@ -4,9 +4,9 @@
 - [x] Graphics pipeline
  * [x] Standard graphics pipeline
  * [x] Programmable graphics pipeline (= shader)
-- [ ] OpenGL 콘텍스트 관리
- * [ ] 크로스 플랫폼 OpenGL 콘텍스트 관리 라이브러리를 이용하는 방법
- * [ ] 각 플랫폼에서 제공하는 콘텍스트 관리 라이브러리를 이용하는 방법
+- [x] OpenGL 콘텍스트 관리
+ * [x] 크로스 플랫폼 OpenGL 콘텍스트 관리 라이브러리를 이용하는 방법
+ * [x] 각 플랫폼에서 제공하는 콘텍스트 관리 라이브러리를 이용하는 방법
 - [ ] GLSL을 이용한 Shader 프로그래밍 및 적용 방법
 - [ ] OpenGL Texture
 - [ ] OpenGL drawing options
