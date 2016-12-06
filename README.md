@@ -13,8 +13,9 @@
  * [x] 프로그램 링킹 전에 vertex attribute를 바인딩
  * [x] glEnableVertexAttribArray() 및 glVertexAttribPointer()를 이용한 vertex attribute 세팅
  * [x] glDrawArray()를 이용한 기초 드로잉
- * [ ] uniform을 이용한 coordinates system 활용하기
- * [ ] glDrawElement()를 이용한 드로잉
+ * [x] uniform 활용
+ * [x] glDrawElement()를 이용한 드로잉
+- [ ] coordinates system 활용하기
 - [ ] OpenGL Texture
 - [ ] OpenGL drawing options
  * [ ] Depth test
