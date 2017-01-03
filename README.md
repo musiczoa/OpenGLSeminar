@@ -24,10 +24,10 @@
  * [x] shader 내에서 sampler2D를 이용하여 texture 데이터 활용하기
  * [x] application에서 사용하고자 하는 texture 세팅하기
  * [x] Mipmap 활용
-- [ ] 약간 더 고급 쉐이딩
+- [x] 약간 더 고급 쉐이딩
  * [x] Diffuse
- * [ ] Specular
- * [ ] Normal map
+ * [x] Specular
+ * [x] Normal map
 - [ ] OpenGL drawing options
  * [ ] Depth test
  * [ ] Cull
