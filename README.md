@@ -28,10 +28,10 @@
  * [x] Diffuse
  * [x] Specular
  * [x] Normal map
-- [ ] OpenGL drawing options
- * [ ] Depth test
- * [ ] Cull
- * [ ] Blend
+- [x] OpenGL drawing options
+ * [x] Depth test
+ * [x] Cull
+ * [x] Blend
  * [ ] Stencil
 - [ ] OpenGL에서 임의의 shape을 그리는 방법
  * [x] Immediate mode
